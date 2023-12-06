@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bmi {
+public class Bmi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("身長,体重の順に入力をお願いします");
